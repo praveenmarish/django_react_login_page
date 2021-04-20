@@ -1,0 +1,10 @@
+#root{
+    background-color:rgb(150, 230, 75);
+    color:white;
+}
+
+.nav-link{
+    color:white;
+    border: 1px solid white;
+    padding: 1em;
+}
